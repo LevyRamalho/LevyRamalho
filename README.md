@@ -22,6 +22,6 @@
   <a href = "mailto:levy45.ramalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/levy-ramalho-a617b0206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/LevyRamalho/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LevyRamalho/LevyRamalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
