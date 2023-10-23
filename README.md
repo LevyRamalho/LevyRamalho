@@ -1,8 +1,8 @@
 
 
-Olá! Eu me chamo Levy Ramalho. Muito bem vindx ao meu portfólio. 👋\
+Olá! Eu me chamo Levy Ramalho. Muito bem vindx ao meu portfólio. 👋
 
-Atualmente estou cursando a **MBA - Lato Sensus em Data Science e Analytics pela Usp/Esalq**. \
+Atualmente estou cursando a **MBA - Lato Sensus em Data Science e Analytics pela Usp/Esalq**. 
 
 Além disso, estou aprofundando meus conhecimentos em Python, Excel, PowerBI, Estatística e Machine Learning.
 
